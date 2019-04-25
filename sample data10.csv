@@ -1,0 +1,8 @@
+,Country,Client,Channel,Status 
+1,Croatia,Client 1,Agent network,Launched 
+2,Germany,Client 2,Debit cards,Launched 
+3,Italy,Client 3,M-banking,Planning 
+4,France,Client 4,M-banking,Launched 
+5,Slovenia,Client 5,Agent network,Launched 
+6,Austria,Client 6,Agent network,Launched 
+7,Hungary,Client 7,Agent network,Pilot
