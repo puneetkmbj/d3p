@@ -1,0 +1,202 @@
+,State,Management,Year,Specialisation,Seats,censuscode,ST_CEN_CD
+1,GUJARAT,Private,2001,Undergraduate,100,474,12
+2,HARYANA,Private,2001,Undergraduate,0,70,13
+3,JAMMU & KASHMIR,Private,2001,Undergraduate,100,14,15
+4,KARNATAKA,Private,2001,Undergraduate,2395,556,17
+5,KERALA,Private,2001,Undergraduate,350,598,18
+6,MADHYA PRADESH,Private,2001,Undergraduate,0,465,20
+7,MAHARASHTRA,Private,2001,Undergraduate,1735,522,21
+8,ODISHA,Private,2001,Undergraduate,100,384,26
+9,PUDUCHERRY,Private,2001,Undergraduate,200,636,27
+10,PUNJAB,Private,2001,Undergraduate,75,49,28
+11,RAJASTHAN,Private,2001,Undergraduate,150,119,29
+12,SIKKIM,Private,2001,Undergraduate,50,244,30
+13,TAMIL NADU,Private,2001,Undergraduate,500,616,31
+14,UTTAR PRADESH,Private,2001,Undergraduate,200,146,34
+15,UTTARAKHAND,Private,2001,Undergraduate,0,64,35
+16,WEST BENGAL,Private,2001,Undergraduate,0,339,36
+17,ASSAM,Public,2001,Undergraduate,426,324,4
+18,BIHAR,Public,2001,Undergraduate,340,209,5
+19,CHANDIGARH,Public,2001,Undergraduate,100,55,6
+20,CHHATTISGARH,Public,2001,Undergraduate,150,414,7
+21,NCT OF DELHI,Public,2001,Undergraduate,650,95,10
+22,GOA,Public,2001,Undergraduate,0,585,11
+23,GUJARAT,Public,2001,Undergraduate,750,474,12
+24,HARYANA,Public,2001,Undergraduate,0,70,13
+25,HIMACHAL PRADESH,Public,2001,Undergraduate,200,30,14
+26,JAMMU & KASHMIR,Public,2001,Undergraduate,0,14,15
+27,JHARKHAND,Public,2001,Undergraduate,0,355,16
+28,KARNATAKA,Public,2001,Undergraduate,400,556,17
+29,KERALA,Public,2001,Undergraduate,600,598,18
+30,MADHYA PRADESH,Public,2001,Undergraduate,0,465,20
+31,MAHARASHTRA,Public,2001,Undergraduate,1500,522,21
+32,MANIPUR,Public,2001,Undergraduate,100,275,22
+33,MEGHALAYA,Public,2001,Undergraduate,0,294,23
+34,ODISHA,Public,2001,Undergraduate,150,384,26
+35,PUDUCHERRY,Public,2001,Undergraduate,200,636,27
+36,PUNJAB,Public,2001,Undergraduate,400,49,28
+37,RAJASTHAN,Public,2001,Undergraduate,0,119,29
+38,TAMIL NADU,Public,2001,Undergraduate,850,616,31
+39,UTTAR PRADESH,Public,2001,Undergraduate,674,146,34
+40,UTTARAKHAND,Public,2001,Undergraduate,100,64,35
+41,WEST BENGAL,Public,2001,Undergraduate,500,339,36
+42,ANDHRA PRADESH,Private,2018,Undergraduate,2600,553,2
+43,BIHAR,Private,2018,Undergraduate,300,209,5
+44,CHHATTISGARH,Private,2018,Undergraduate,300,414,7
+45,NCT OF DELHI,Private,2018,Undergraduate,100,95,10
+46,GUJARAT,Private,2018,Undergraduate,950,474,12
+47,HARYANA,Private,2018,Undergraduate,550,70,13
+48,HIMACHAL PRADESH,Private,2018,Undergraduate,150,30,14
+49,JAMMU & KASHMIR,Private,2018,Undergraduate,100,14,15
+50,KARNATAKA,Private,2018,Undergraduate,5945,556,17
+51,KERALA,Private,2018,Undergraduate,2150,598,18
+52,MADHYA PRADESH,Private,2018,Undergraduate,1150,465,20
+53,MAHARASHTRA,Private,2018,Undergraduate,3870,522,21
+54,ODISHA,Private,2018,Undergraduate,400,384,26
+55,PUDUCHERRY,Private,2018,Undergraduate,1050,636,27
+56,PUNJAB,Private,2018,Undergraduate,625,49,28
+57,RAJASTHAN,Private,2018,Undergraduate,700,119,29
+58,SIKKIM,Private,2018,Undergraduate,50,244,30
+59,TAMIL NADU,Private,2018,Undergraduate,3150,616,31
+60,TELANGANA,Private,2018,Undergraduate,2250,532,32
+61,TRIPURA,Private,2018,Undergraduate,100,291,33
+62,UTTAR PRADESH,Private,2018,Undergraduate,3050,146,34
+63,UTTARAKHAND,Private,2018,Undergraduate,450,64,35
+64,WEST BENGAL,Private,2018,Undergraduate,250,339,36
+65,ANDAMAN & NICOBAR ISLAND,Public,2018,Undergraduate,100,638,1
+66,ANDHRA PRADESH,Public,2018,Undergraduate,1900,553,2
+67,ASSAM,Public,2018,Undergraduate,726,324,4
+68,BIHAR,Public,2018,Undergraduate,1050,209,5
+69,CHANDIGARH,Public,2018,Undergraduate,100,55,6
+70,CHHATTISGARH,Public,2018,Undergraduate,650,414,7
+71,NCT OF DELHI,Public,2018,Undergraduate,950,95,10
+72,GOA,Public,2018,Undergraduate,150,585,11
+73,GUJARAT,Public,2018,Undergraduate,2900,474,12
+74,HARYANA,Public,2018,Undergraduate,600,70,13
+75,HIMACHAL PRADESH,Public,2018,Undergraduate,500,30,14
+76,JAMMU & KASHMIR,Public,2018,Undergraduate,400,14,15
+77,JHARKHAND,Public,2018,Undergraduate,300,355,16
+78,KARNATAKA,Public,2018,Undergraduate,2750,556,17
+79,KERALA,Public,2018,Undergraduate,1300,598,18
+80,MADHYA PRADESH,Public,2018,Undergraduate,900,465,20
+81,MAHARASHTRA,Public,2018,Undergraduate,3100,522,21
+82,MANIPUR,Public,2018,Undergraduate,200,275,22
+83,MEGHALAYA,Public,2018,Undergraduate,50,294,23
+84,ODISHA,Public,2018,Undergraduate,950,384,26
+85,PUDUCHERRY,Public,2018,Undergraduate,350,636,27
+86,PUNJAB,Public,2018,Undergraduate,500,49,28
+87,RAJASTHAN,Public,2018,Undergraduate,1550,119,29
+88,TAMIL NADU,Public,2018,Undergraduate,3250,616,31
+89,TELANGANA,Public,2018,Undergraduate,1100,532,32
+90,TRIPURA,Public,2018,Undergraduate,100,291,33
+91,UTTAR PRADESH,Public,2018,Undergraduate,2224,146,34
+92,UTTARAKHAND,Public,2018,Undergraduate,450,64,35
+93,WEST BENGAL,Public,2018,Undergraduate,2050,339,36
+94,ASSAM,Both,2001,Undergraduate,426,324,4
+95,BIHAR,Both,2001,Undergraduate,340,209,5
+96,CHANDIGARH,Both,2001,Undergraduate,100,55,6
+97,CHHATTISGARH,Both,2001,Undergraduate,150,414,7
+98,GOA,Both,2001,Undergraduate,0,585,11
+99,GUJARAT,Both,2001,Undergraduate,850,474,12
+100,HARYANA,Both,2001,Undergraduate,0,70,13
+101,HIMACHAL PRADESH,Both,2001,Undergraduate,200,30,14
+102,JAMMU & KASHMIR,Both,2001,Undergraduate,100,14,15
+103,JHARKHAND,Both,2001,Undergraduate,0,355,16
+104,KARNATAKA,Both,2001,Undergraduate,2795,556,17
+105,KERALA,Both,2001,Undergraduate,950,598,18
+106,MADHYA PRADESH,Both,2001,Undergraduate,0,465,20
+107,MAHARASHTRA,Both,2001,Undergraduate,3235,522,21
+108,MANIPUR,Both,2001,Undergraduate,100,275,22
+109,MEGHALAYA,Both,2001,Undergraduate,0,294,23
+110,NCT OF DELHI,Both,2001,Undergraduate,650,95,10
+111,ODISHA,Both,2001,Undergraduate,250,384,26
+112,PUDUCHERRY,Both,2001,Undergraduate,400,636,27
+113,PUNJAB,Both,2001,Undergraduate,475,49,28
+114,RAJASTHAN,Both,2001,Undergraduate,150,119,29
+115,SIKKIM,Both,2001,Undergraduate,50,244,30
+116,TAMIL NADU,Both,2001,Undergraduate,1350,616,31
+117,UTTAR PRADESH,Both,2001,Undergraduate,874,146,34
+118,UTTARAKHAND,Both,2001,Undergraduate,100,64,35
+119,WEST BENGAL,Both,2001,Undergraduate,500,339,36
+120,ANDAMAN & NICOBAR ISLAND,Both,2018,Undergraduate,100,638,1
+121,ANDHRA PRADESH,Both,2018,Undergraduate,4500,553,2
+122,ASSAM,Both,2018,Undergraduate,726,324,4
+123,BIHAR,Both,2018,Undergraduate,1350,209,5
+124,CHANDIGARH,Both,2018,Undergraduate,100,55,6
+125,CHHATTISGARH,Both,2018,Undergraduate,950,414,7
+126,GOA,Both,2018,Undergraduate,150,585,11
+127,GUJARAT,Both,2018,Undergraduate,3850,474,12
+128,HARYANA,Both,2018,Undergraduate,1150,70,13
+129,HIMACHAL PRADESH,Both,2018,Undergraduate,650,30,14
+130,JAMMU & KASHMIR,Both,2018,Undergraduate,500,14,15
+131,JHARKHAND,Both,2018,Undergraduate,300,355,16
+132,KARNATAKA,Both,2018,Undergraduate,8695,556,17
+133,KERALA,Both,2018,Undergraduate,3450,598,18
+134,MADHYA PRADESH,Both,2018,Undergraduate,2050,465,20
+135,MAHARASHTRA,Both,2018,Undergraduate,6970,522,21
+136,MANIPUR,Both,2018,Undergraduate,200,275,22
+137,MEGHALAYA,Both,2018,Undergraduate,50,294,23
+138,NCT OF DELHI,Both,2018,Undergraduate,1050,95,10
+139,ODISHA,Both,2018,Undergraduate,1350,384,26
+140,PUDUCHERRY,Both,2018,Undergraduate,1400,636,27
+141,PUNJAB,Both,2018,Undergraduate,1125,49,28
+142,RAJASTHAN,Both,2018,Undergraduate,2250,119,29
+143,SIKKIM,Both,2018,Undergraduate,50,244,30
+144,TAMIL NADU,Both,2018,Undergraduate,6400,616,31
+145,TELANGANA,Both,2018,Undergraduate,3350,532,32
+146,TRIPURA,Both,2018,Undergraduate,200,291,33
+147,UTTAR PRADESH,Both,2018,Undergraduate,5274,146,34
+148,UTTARAKHAND,Both,2018,Undergraduate,900,64,35
+149,WEST BENGAL,Both,2018,Undergraduate,2300,339,36
+150,ANDHRA PRADESH,Private,2001,Undergraduate,600,553,2
+151,ANDHRA PRADESH(OLD),Private,2001,Undergraduate,600,NA,NA
+152,ANDHRA PRADESH,Public,2001,Undergraduate,500,553,2
+153,ANDHRA PRADESH(OLD),Public,2001,Undergraduate,500,NA,NA
+154,ANDHRA PRADESH,Both,2001,Undergraduate,1100,553,2
+155,ANDHRA PRADESH(OLD),Both,2001,Undergraduate,1100,NA,NA
+156,ARUNANCHAL PRADESH,Both,2001,Undergraduate,0,260,3
+157,NAGALAND,Both,2001,Undergraduate,0,265,25
+158,MIZORAM,Both,2001,Undergraduate,0,283,24
+159,HIMACHAL PRADESH,Private,2001,Undergraduate,0,30,14
+160,NCT OF DELHI,Private,2001,Undergraduate,0,95,10
+161,GOA,Private,2001,Undergraduate,0,585,11
+162,CHHATTISGARH,Private,2001,Undergraduate,0,414,7
+163,JHARKHAND,Private,2001,Undergraduate,0,355,16
+164,BIHAR,Private,2001,Undergraduate,120,209,5
+165,ASSAM,Private,2001,Undergraduate,0,324,4
+166,MEGHALAYA,Private,2001,Undergraduate,0,294,23
+167,TRIPURA,Private,2001,Undergraduate,0,291,33
+168,MANIPUR,Private,2001,Undergraduate,0,275,22
+169,HIMACHAL PRADESH,Private,2018,Undergraduate,150,30,14
+170,NCT OF DELHI,Private,2018,Undergraduate,200,95,10
+171,GOA,Private,2018,Undergraduate,0,585,11
+172,CHHATTISGARH,Private,2018,Undergraduate,0,414,7
+173,JHARKHAND,Private,2018,Undergraduate,0,355,16
+174,BIHAR,Private,2018,Undergraduate,260,209,5
+175,ASSAM,Private,2018,Undergraduate,0,324,4
+176,MEGHALAYA,Private,2018,Undergraduate,0,294,23
+177,TRIPURA,Private,2018,Undergraduate,100,291,33
+178,MANIPUR,Private,2018,Undergraduate,0,275,22
+179,SIKKIM,Public,2001,Undergraduate,0,244,30
+180,TRIPURA,Public,2001,Undergraduate,0,291,33
+181,SIKKIM,Public,2018,Undergraduate,0,244,30
+182,TRIPURA,Public,2018,Undergraduate,100,291,33
+183,ARUNANCHAL PRADESH,Both,2018,Undergraduate,50,260,3
+184,NAGALAND,Both,2018,Undergraduate,0,265,25
+185,MIZORAM,Both,2018,Undergraduate,100,283,24
+186,ARUNANCHAL PRADESH,Private,2018,Undergraduate,0,260,3
+187,NAGALAND,Private,2018,Undergraduate,0,265,25
+188,MIZORAM,Private,2018,Undergraduate,0,283,24
+189,ARUNANCHAL PRADESH,Public,2018,Undergraduate,50,260,3
+190,NAGALAND,Public,2018,Undergraduate,0,265,25
+191,MIZORAM,Public,2018,Undergraduate,100,283,24
+192,ARUNANCHAL PRADESH,Private,2001,Undergraduate,0,260,3
+193,NAGALAND,Private,2001,Undergraduate,0,265,25
+194,MIZORAM,Private,2001,Undergraduate,0,283,24
+195,ARUNANCHAL PRADESH,Public,2001,Undergraduate,0,260,3
+196,NAGALAND,Public,2001,Undergraduate,0,265,25
+197,MIZORAM,Public,2001,Undergraduate,0,283,24
+198,DADARA & NAGAR HAVELLI,NA,NA,NA,NA,496,8
+199,DAMAN & DIU,NA,NA,NA,NA,495,9
+200,LAKSHADWEEP,NA,NA,NA,NA,587,19
+201,POK,NA,NA,NA,NA,0,999
